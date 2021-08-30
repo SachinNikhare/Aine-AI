@@ -1,0 +1,78 @@
+body{
+    background-color: rgba(244,245,247,255);
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.header{
+    background-color: rgba(255,255,255,255);height: 100px;
+}
+
+nav{
+    height: 776px;
+    width: 100px;
+    background-color:rgba(250,250,250,255);
+    position: absolute;
+    left: 0px;
+    top:0px;
+    z-index: +1;
+    box-shadow: 0px 0px 5px 5px rgba(228,228,228,255);
+}
+
+#logo{
+    border-bottom: 2px solid rgba(228,228,228,255);
+}
+
+#logo img{
+    width: 50px;
+    height: 50px; 
+}
+
+.container{
+vertical-align:middle;
+text-align: center;
+padding-top: 22px;
+padding-bottom: 22px;
+}
+
+.container p{
+    margin: 2px;
+}
+
+#plan{
+background-color: rgba(208,224,237,255);
+border-left: 3px solid rgba(56,108,185,255);
+}
+
+#setting{
+    height: 100px;
+    width: 100px;
+}
+p{
+    color: rgba(134,149,154,255);
+}
+section p{
+    margin: 35px 0px 0px 157px;
+    font-size: 15px;
+}
+.url{
+    background-color: rgba(250,250,250,255);
+    margin: 50px 165px;
+    height: 43px;
+    border-radius: 10px;
+    vertical-align: middle;
+    line-height: 43px;
+    padding-left: 20px;
+    margin-left: 265px;
+}
+.upload{
+    background-color: rgba(250,250,250,255);
+    height: 160px;
+    width: 160px;
+    text-align: center;
+    font-weight: bold;
+    vertical-align: middle;
+    line-height: 160px;
+    margin-left: 265px;
+}
